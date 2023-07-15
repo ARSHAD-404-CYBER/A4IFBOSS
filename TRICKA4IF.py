@@ -211,7 +211,6 @@ try:
     open('.prox.txt','w').write(prox)
 except Exception as e:
 	  print('WELCOME TO ARSHAD-404-CYBER TOOLS🔥')
-prox=open('prox.txt','r').read().splitlines()
 
 for xd in range(10000):
     a='Mozilla/5.0 (Symbian/3; Series60/'
